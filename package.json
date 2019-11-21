@@ -1,0 +1,48 @@
+{
+  "name": "@adobe/api-client-decisioning",
+  "version": "0.0.3",
+  "description": "Adobe Decisioning Service API Client for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src test index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe/adobe-api-client-decisioning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adobe/adobe-api-client-base/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "AEP",
+    "Decisioning Service",
+    "API",
+    "ODE",
+    "xcore",
+    "adobe.io"
+  ],
+  "author": "Ittai Baratz",
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "@adobe/api-client-base": "^0.3.2"
+  },
+  "devDependencies": {
+    "@adobe/fetch": "^0.3.1",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  }
+}
