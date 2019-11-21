@@ -1,3 +1,11 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Version](https://img.shields.io/npm/v/@adobe/api-client-decisioning.svg)](https://npmjs.org/package/@adobe/api-client-decisioning)
+[![Downloads/week](https://img.shields.io/npm/dw/@adobe/api-client-decisioning.svg)](https://npmjs.org/package/@adobe/api-client-decisioning)
+[![Build Status](https://travis-ci.org/adobe/adobe-api-client-decisioning.svg?branch=master)](https://travis-ci.com/adobe/adobe-api-client-decisioning)
+[![codecov](https://codecov.io/gh/adobe/adobe-api-client-decisioning/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/adobe-api-client-decisioning)
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/adobe-api-client-decisioning.svg)](https://greenkeeper.io/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/adobe/adobe-api-client-decisioning.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/adobe/adobe-api-client-decisioning/context:javascript)
+
 # api-client-decisioning
 
 [Adobe Decisioning Service API](https://www.adobe.io/apis/experienceplatform/home/services/decisioning-service.html) client for NodeJS/Javascript
